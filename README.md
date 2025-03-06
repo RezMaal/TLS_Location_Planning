@@ -12,6 +12,13 @@ Normally, the problem is defined as a solution to a linear programming function 
 
 ![Screenshot 2025-03-06 at 21 05 22](https://github.com/user-attachments/assets/7159ceef-8b0a-426f-9b93-b6df2c1abbe1)
 
+# Implementaion and Dependencies
+The code was implemented in Matlab and solved using the Gurobi integer programming (v. 12.0.0). As such, in order to utilize the code, the user must install the following in addition to an up-to-date Matlab software:
+
+1- Matlab Optimization Toolbox to solve the integer linear programming (ILP) problem to maximize coverage;
+
+2- Gurobi Solver for Matlab to solve the quadratic programming (QP) problem associated with the registrability guarantee between scanners.
+
 # Results of the Study
 It was observed that by incorporating the quadratic registrability term, it is possible to improve the registrability of the network; furthermore, when compared with manual planning, the automatic planning provided less number of scan stations, more surface coverage, and less number of points. The following image shos the results of one sample run for the two methods proposed in the study:
 
