@@ -33,5 +33,7 @@ The study was published and presented at the Creative Construction Conference (C
 
 Maalek, R. and Al-Salihi, M. 2024. "Terrestrial laser scanner location and path planning on construction projects”. Proceedings of the Creative Construction Conference (CCC), July 2024, Prague, Czech Republic. https://doi.org/10.3311/CCC2024-177.
 
+Please also stay in contact with the co-author of this study @Mustafasalihi91!
+
 # Acknowledgements
 The author wishes to acknowledge the generous endowment provided by GOLDBECK GmbH to the Karlsruhe Institute of Technology (KIT) for the establishment of the Professorship in Digital Engineering and Construction at the Institute of Technology and Management in Construction (TMB).
