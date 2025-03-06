@@ -31,7 +31,7 @@ To successfully run the code, all items must be accessible to Matlab at the time
 # Citations
 The study was published and presented at the Creative Construction Conference (CCC), held in Prague on July 2024, where the mathematical formulations are explained in more detail. You may cite the study using the following information:
 
-Maalek, R. and Al-salihi, M. 2024. "Terrestrial laser scanner location and path planning on construction projects”. Proceedings of the Creative Construction Conference 2024, July 2024, Prague, Czech Republic. https://doi.org/10.3311/CCC2024-177.
+Maalek, R. and Al-Salihi, M. 2024. "Terrestrial laser scanner location and path planning on construction projects”. Proceedings of the Creative Construction Conference (CCC), July 2024, Prague, Czech Republic. https://doi.org/10.3311/CCC2024-177.
 
 # Acknowledgements
 The author wishes to acknowledge the generous endowment provided by GOLDBECK GmbH to the Karlsruhe Institute of Technology (KIT) for the establishment of the Professorship in Digital Engineering and Construction at the Institute of Technology and Management in Construction (TMB).
